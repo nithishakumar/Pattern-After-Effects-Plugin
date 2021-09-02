@@ -6,4 +6,5 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
 
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%202.gif)
 
+![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%203.gif)
 
