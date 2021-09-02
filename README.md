@@ -40,4 +40,4 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
     
 13. Replace the code in Pattern.cpp and Pattern.h to the one from this repository.
 14. Add Draw.h, Draw.cpp, Draw_Tiling.cpp to Pattern.sln.
-15. Run Visual Studio as administrator and build the plugin by clicking on "Local Windows Debugger!" You can find the plugin at Effect << Motion Graphics Plugins.
+15. Run Visual Studio as administrator and build the plugin by clicking on "Local Windows Debugger". You can find the plugin at Effect << Motion Graphics Plugins.
