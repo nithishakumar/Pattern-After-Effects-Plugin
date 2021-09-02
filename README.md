@@ -31,7 +31,7 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
    ![image](https://user-images.githubusercontent.com/73742037/131928183-cc8f2460-4463-458e-a5b2-896720664aef.png)
    
 8. Now add the code from Color.h and Color.cpp to the Color static library and build it.
-9. Link OpenCV to your Pattern plugin by adding the same paths to "include" and "lib" under "Include Directories" and "Library Directories".
+9. Link OpenCV to your Pattern plugin by adding the same paths to "include" and "lib" under "Include Directories" and "Library Directories" of your Pattern project.
 10. Include the path to your Color static library folder under "Include Directories" in Pattern.
 11. Include the path to color static library folder << x64 << Debug under "Library Directories" in Pattern.
 12. Under Linker << Input << Additional Dependencies, add Color.lib and opencv_world3415d.lib to Pattern:
