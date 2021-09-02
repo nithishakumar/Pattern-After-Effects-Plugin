@@ -4,7 +4,6 @@ since the following files contain modified Adobe After Effects SDK code - they'r
 2. Pattern.cpp
 3. Pattern_Strings.h
 4. Pattern_Strings.cpp
-5. PatternPiPL.r
 
 However, the files below are licensed under the MIT license.
 
