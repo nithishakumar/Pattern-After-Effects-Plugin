@@ -14,10 +14,13 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
    
    Make sure to rename everything to "Pattern". In PatterPiPL.r, change category to "Motion Graphics Plugins".
 2. Follow this tutorial to link your project to the cairo graphics library: https://www.youtube.com/watch?v=oAVWwBA2K0U
+   
    Everything you need is in the cairo folder of this repository. 
 3. Copy the cairo.dll file from this repository to the Support files folder of where Adobe After Effects is installed in your computer 
    (C:\Program Files\Adobe\Adobe After Effects 2021\Support Files).
-4. Install OpenCV 3.4.15 from this link: https://opencv.org/releases/. Extract it to a folder you prefer. I recommend your D drive.
+4. Install OpenCV 3.4.15 from this link: https://opencv.org/releases/. Extract it to a folder you prefer. I recommend your D drive.                                
+   
+   Refer to this option 1 in this tutorial if you need any help along the way: https://www.youtube.com/watch?v=eDGSkdeV8YI
 5. Create a new project in Visual Studio, choose Static Library (.lib) in C++, and place it in the same folder as Pattern. Name it "Color".
 6. Make sure to change the configuration of the static library project to x64 from x86:
    
