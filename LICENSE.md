@@ -1,4 +1,4 @@
-As per clause 2.1 a) of Adobe After Effects CS6 SDK license agreement (https://www.adobe.com/devnet/aftereffects/sdk/cs6_eula.html), 
+As per clause 2.1 a) of the Adobe After Effects CS6 SDK license agreement (https://www.adobe.com/devnet/aftereffects/sdk/cs6_eula.html), 
 since the following files contain modified Adobe After Effects SDK code - they're subject to copyright by Adobe Systems Incorporated.
 1. Pattern.h
 2. Pattern.cpp
