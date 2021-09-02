@@ -16,7 +16,7 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
 2. Follow this tutorial to link your project to the cairo graphics library: https://www.youtube.com/watch?v=oAVWwBA2K0U
    
    Everything you need is in the cairo folder of this repository. 
-3. Copy the cairo.dll file from this repository to the Support files folder of where Adobe After Effects is installed in your computer 
+3. Copy the cairo.dll file from the cairo folder of this repository to the "Support files" folder of where Adobe After Effects is installed in your computer 
    (C:\Program Files\Adobe\Adobe After Effects 2021\Support Files).
 4. Install OpenCV 3.4.15 from this link: https://opencv.org/releases/. Extract it to a folder you prefer. I recommend your D drive.                                
    
@@ -26,7 +26,7 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
    
    ![image](https://user-images.githubusercontent.com/73742037/131928290-43f029dd-4664-464e-a667-45537e956981.png)
    
-7. Link OpenCV to your static library by adding the path to "include" and "lib" under "Include Directories" and "Library Directories" of this project:
+7. Link OpenCV to your static library by adding the path to "include" and "lib" in your OpenCV folder under "Include Directories" and "Library Directories" of this project:
   
    ![image](https://user-images.githubusercontent.com/73742037/131928183-cc8f2460-4463-458e-a5b2-896720664aef.png)
    
