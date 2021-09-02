@@ -20,7 +20,7 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
    (C:\Program Files\Adobe\Adobe After Effects 2021\Support Files).
 4. Install OpenCV 3.4.15 from this link: https://opencv.org/releases/. Extract it to a folder you prefer. I recommend your D drive.                                
    
-   Refer to this option 1 in this tutorial if you need any help along the way: https://www.youtube.com/watch?v=eDGSkdeV8YI
+   Refer to "option 1" in this tutorial if you need any help along the way: https://www.youtube.com/watch?v=eDGSkdeV8YI
 5. Create a new project in Visual Studio, choose Static Library (.lib) in C++, and place it in the same folder as Pattern. Name it "Color".
 6. Make sure to change the configuration of the static library project to x64 from x86:
    
@@ -40,4 +40,4 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
     
 13. Replace the code in Pattern.cpp and Pattern.h to the one from the repository.
 14. Add Draw.h, Draw.cpp, Draw_Tiling.cpp to Pattern.sln.
-15. Run Visual Studio as administrator and build the plugin by clicking on "Local Windows Debugger"! You can find the plugin at Effect << Motion Graphics Plugins.
+15. Run Visual Studio as administrator and build the plugin by clicking on "Local Windows Debugger!" You can find the plugin at Effect << Motion Graphics Plugins.
