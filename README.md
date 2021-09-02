@@ -10,9 +10,9 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
 
 # Building the plugin on Windows
 
-1. Follow this tutorial to set up Adobe After Effects Plugin SDK files on Visual Studio: https://www.youtube.com/watch?v=gilpHirsXQA 
+1. Follow this tutorial to set up the After Effects SDK files on Visual Studio: https://www.youtube.com/watch?v=gilpHirsXQA 
    
-   Make sure to rename everything to "Pattern". In PatterPiPL.r, change category to "Motion Graphics Plugins".
+   Make sure to rename everything to "Pattern". In PatterPiPL.r, change the category to "Motion Graphics Plugins" before compiling.
 2. Follow this tutorial to link your project to the cairo graphics library: https://www.youtube.com/watch?v=oAVWwBA2K0U
    
    Everything you need is in the cairo folder of this repository. 
