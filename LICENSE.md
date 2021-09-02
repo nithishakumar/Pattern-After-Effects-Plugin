@@ -6,7 +6,8 @@ since the following files contain modified Adobe After Effects SDK code - they'r
 4. Pattern_Strings.cpp
 5. PatternPiPL.r
 
-However, the following files are licensed under the MIT license.
+However, the files below are licensed under the MIT license.
+
 Draw.h, Draw.cpp, Draw_Tiling.cpp, Color.cpp, Color.h
 
 Copyright © 2021 Nithisha Nantha Kumar
