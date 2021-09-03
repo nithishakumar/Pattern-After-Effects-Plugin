@@ -32,7 +32,7 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
    
 8. Now add the code from Color.h and Color.cpp to the Color static library.
 9. Download the Image Dataset from this link: https://www.kaggle.com/nithishakumar/pattern-plugin-image-dataset and place it in the same folder as the Pattern plugin. DO NOT RENAME ANY OF THE IMAGES!
-10. Copy the path to the ImageDataset and assign this value to path string in Color.cpp:
+10. Copy the path to the ImageDataset and assign this value to the path string in Color.cpp:
  
     ![image](https://user-images.githubusercontent.com/73742037/131933620-cf4940bb-1aa9-4012-a6ce-3ce73d4d92a7.png)
 
