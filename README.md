@@ -30,14 +30,19 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
   
    ![image](https://user-images.githubusercontent.com/73742037/131928183-cc8f2460-4463-458e-a5b2-896720664aef.png)
    
-8. Now add the code from Color.h and Color.cpp to the Color static library and build it.
-9. Link OpenCV to your Pattern plugin by adding the same paths to "include" and "lib" under "Include Directories" and "Library Directories" of your Pattern project.
-10. Include the path to your Color static library folder under "Include Directories" in Pattern.
-11. Include the path to color static library folder << x64 << Debug under "Library Directories" in Pattern.
-12. Under Linker << Input << Additional Dependencies, add Color.lib and opencv_world3415d.lib to Pattern:
+8. Now add the code from Color.h and Color.cpp to the Color static library.
+9. Download the Image Dataset from this link: https://www.kaggle.com/nithishakumar/pattern-plugin-image-dataset and place it in the same folder as the Pattern plugin. DO NOT RENAME ANY OF THE IMAGES!
+10. Copy the path to the ImageDataset and assign this value to path in Color.cpp:
+ 
+    ![image](https://user-images.githubusercontent.com/73742037/131933620-cf4940bb-1aa9-4012-a6ce-3ce73d4d92a7.png)
+
+11. Link OpenCV to your Pattern plugin by adding the same paths to "include" and "lib" under "Include Directories" and "Library Directories" of your Pattern project.
+12. Include the path to your Color static library folder under "Include Directories" in Pattern.
+13. Include the path to color static library folder << x64 << Debug under "Library Directories" in Pattern.
+14. Under Linker << Input << Additional Dependencies, add Color.lib and opencv_world3415d.lib to Pattern:
 
     ![image](https://user-images.githubusercontent.com/73742037/131928785-24106084-5601-4038-884b-53f7e1b44c41.png)
     
-13. Replace the code in Pattern.cpp and Pattern.h to the one from this repository.
-14. Add Draw.h, Draw.cpp, Draw_Tiling.cpp to Pattern.sln.
-15. Run Visual Studio as administrator and build the plugin by clicking on "Local Windows Debugger". You can find the plugin at Effect << Motion Graphics Plugins.
+15. Replace the code in Pattern.cpp and Pattern.h to the one from this repository.
+16. Add Draw.h, Draw.cpp, Draw_Tiling.cpp to Pattern.sln.
+17. Run Visual Studio as administrator and build the plugin by clicking on "Local Windows Debugger". You can find the plugin at Effect << Motion Graphics Plugins.
