@@ -1,6 +1,6 @@
 # Pattern 
 An Adobe After Effects plugin that creates Islamic star pattern-style animations using the Hankin's polygons-in-contact algorithm. Colors for animations are generated from 
-datasets of images (illustrated by professional artists at Kurzgesagt) through k-means clustering. This project is based on the University of Waterloo's research paper "Islamic Star Patterns from Polygons in Contact" by Craig S. Kaplan (https://dl.acm.org/doi/pdf/10.5555/1089508.1089538).
+datasets of images (illustrated by professional artists at Kurzgesagt) through k-means clustering. This plugin is based on the University of Waterloo's research paper "Islamic Star Patterns from Polygons in Contact" by Craig S. Kaplan (https://dl.acm.org/doi/pdf/10.5555/1089508.1089538).
 
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%201.gif)
 
@@ -13,9 +13,9 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
 1. Follow this tutorial to set up the After Effects SDK files on Visual Studio: https://www.youtube.com/watch?v=gilpHirsXQA 
    
    Make sure to rename everything to "Pattern". In PatterPiPL.r, change the category to "Motion Graphics Plugins" before compiling.
-2. Follow this tutorial to link your project to the cairo graphics library: https://www.youtube.com/watch?v=oAVWwBA2K0U
+2. Follow this tutorial to link your project to the Cairo graphics library: https://www.youtube.com/watch?v=oAVWwBA2K0U
    
-   Everything you need is in the cairo folder of this repository. 
+   Everything you need is in the "cairo" folder of this repository. 
 3. Copy the cairo.dll file from the cairo folder of this repository to the "Support files" folder of where Adobe After Effects is installed in your computer 
    (C:\Program Files\Adobe\Adobe After Effects 2021\Support Files).
 4. Install OpenCV 3.4.15 from this link: https://opencv.org/releases/. Extract it to a folder you prefer. I recommend your D drive.                                
