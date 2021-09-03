@@ -8,7 +8,7 @@ datasets of images (illustrated by professional artists at Kurzgesagt) through k
 
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%203.gif)
 
-# Building the plugin on Windows
+# Building Pattern on Windows
 
 1. Follow this tutorial to set up the After Effects SDK files on Visual Studio: https://www.youtube.com/watch?v=gilpHirsXQA 
    
