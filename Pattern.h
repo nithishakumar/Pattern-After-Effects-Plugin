@@ -77,7 +77,7 @@ typedef short int			int16;
 #define Pattern_STROKE_MAX       10
 #define Pattern_STROKE_DFLT      3
 #define Pattern_SIDELENGTH_MIN   60
-#define Pattern_SIDELENGTH_MAX   300
+#define Pattern_SIDELENGTH_MAX   250
 #define Pattern_SIDELENGTH_DFLT  120
 #define Pattern_NUMSIDES_MIN     3
 #define Pattern_NUMSIDES_MAX     45
