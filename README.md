@@ -6,6 +6,8 @@ See LICENSE.md for license details.
 
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%201.gif)
 
+![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%208.gif)
+
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%202.gif)
 
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%203.gif)
