@@ -1,5 +1,5 @@
 # Pattern 
-An Adobe After Effects plugin that creates Islamic star pattern-style animations using the Hankin's polygons-in-contact algorithm. Colors for animations are generated from 
+An Adobe After Effects plugin that creates Islamic star pattern-style animations using Hankin's polygons-in-contact algorithm. Colors for animations are generated from 
 datasets of images (illustrated by professional artists at Kurzgesagt) through k-means clustering. This plugin is based on the University of Waterloo's research paper "Islamic Star Patterns from Polygons in Contact" by Craig S. Kaplan (https://dl.acm.org/doi/pdf/10.5555/1089508.1089538).
 
 See LICENSE.md for license details.
