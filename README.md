@@ -4,6 +4,8 @@ a dataset of images (illustrated by professional artists at Kurzgesagt) through 
 
 See LICENSE.md for license details. Watch Pattern in action: https://youtu.be/4MxbwQsuseU
 
+Brief explanation of how the algorithm used works: https://artsengine.engin.umich.edu/science_as_art/pattern/
+
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%201.gif)
 
 ![Alt Text](https://github.com/nithishakumar/Pattern-After-Effects-Plugin/blob/main/animations/animation%208.gif)
