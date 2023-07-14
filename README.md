@@ -1,5 +1,5 @@
 # Pattern 
-Winner of the Adobe Digital Edge Awards 2023 in Engineerin, Pattern is an Adobe After Effects plugin that creates Islamic star pattern-style animations using Hankin's polygons-in-contact algorithm. Colors for animations are generated from 
+Winner of the Adobe Digital Edge Awards 2023 in Engineering, Pattern is an Adobe After Effects plugin that creates Islamic star pattern-style animations using Hankin's polygons-in-contact algorithm. Colors for animations are generated from 
 a dataset of images (illustrated by professional artists at Kurzgesagt) through k-means clustering. This plugin's algorithm is inspired by the techniques proposed in the University of Waterloo's research paper "Islamic Star Patterns from Polygons in Contact" by Craig S. Kaplan (https://dl.acm.org/doi/pdf/10.5555/1089508.1089538).
 
 See LICENSE.md for license details. Watch Pattern in action: https://youtu.be/4MxbwQsuseU
